@@ -1,0 +1,30 @@
+{
+  "name": "telekommunist.slides",
+  "version": "1.0.0",
+  "author": {
+    "name": "Telekommunisten",
+    "email": "info@telekommunisten.net"
+  },
+  "description": "Miscommunication Station",
+  "subdomain": "station",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tricknik/station.git"
+  },
+  "homepage": "http://telekommunisten.net/miscommunication-station",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "contributors": [
+    {
+      "name": "Dmytri Kleiner",
+      "email": "dk@telekommunisten.net"
+    }
+  ],
+  "dependencies": {
+    "node-static": ">= 0.6.1"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
