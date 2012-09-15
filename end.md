@@ -1,7 +1,6 @@
----
-title: P2P Communism Vs. The Client Server State
-toc: no
-...
+Title: P2P Communism Vs. The Client Server State
+Footer: P2P Communism Vs. The Client Server State
+Subfooter: Dmytri Kleiner
 
 # Telekommunisten
 

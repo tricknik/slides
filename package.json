@@ -1,17 +1,17 @@
 {
-  "name": "telekommunist.slides",
-  "version": "1.0.0",
+  "name": "telekommunist",
+  "version": "1.0.0-1",
   "author": {
-    "name": "Telekommunisten",
+    "name": "Telekommunist",
     "email": "info@telekommunisten.net"
   },
-  "description": "Miscommunication Station",
-  "subdomain": "station",
+  "description": "Telekommunist Slides",
+  "subdomain": "telekommunist",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tricknik/station.git"
+    "url": "git://github.com/tricknik/slides.git"
   },
-  "homepage": "http://telekommunisten.net/miscommunication-station",
+  "homepage": "http://telekommunist.jit.su",
   "scripts": {
     "start": "node ./app.js"
   },
